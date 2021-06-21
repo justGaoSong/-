@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis_plus_demo" />
-        <module name="gaosong_practice_collection" />
-        <module name="java_basic" />
         <module name="multi_source_redis" />
+        <module name="mybatis_plus_demo" />
+        <module name="java_basic" />
+        <module name="gaosong_practice_collection" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

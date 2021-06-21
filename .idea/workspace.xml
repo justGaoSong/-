@@ -30,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -311,6 +312,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="192" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624273498659" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624273741639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273741639" />
     <state x="144" y="187" width="1598" height="695" key="new project wizard" timestamp="1624271881831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

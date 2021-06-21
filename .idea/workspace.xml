@@ -94,11 +94,24 @@
       <updated>1624262447468</updated>
       <workItem from="1624262450319" duration="1629000" />
       <workItem from="1624264113474" duration="4971000" />
+      <workItem from="1624270367218" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="添加ignore">
+      <created>1624270456199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624270456199</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1263" y="466" width="542" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624263061702">
@@ -109,10 +122,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
-    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624270405824">
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624270455361">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270405824" />
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270455361" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624264082723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -161,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624264099048" />
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624270458546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270458546" />
     <state x="144" y="187" width="1598" height="695" key="new project wizard" timestamp="1624266539116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

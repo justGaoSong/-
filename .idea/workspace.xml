@@ -21,6 +21,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -106,46 +109,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624270405824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270405824" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624264082723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624264082723" />
-    <state width="1867" height="451" key="GridCell.Tab.0.bottom" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.0.bottom" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.0.center" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.0.center" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.0.left" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.0.left" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.0.right" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.0.right" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.1.center" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.1.center" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.1.left" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.1.left" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
-    <state width="1867" height="451" key="GridCell.Tab.1.right" timestamp="1624265971591">
+    <state width="1867" height="451" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
+    <state width="1867" height="451" key="GridCell.Tab.1.right" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624265971591" />
+    <state width="1867" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
     <state x="377" y="93" key="Maven.ArtifactSearchDialog" timestamp="1624262839807">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="377" y="93" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624262839807" />
+    <state x="576" y="164" key="RollbackChangesDialog" timestamp="1624270422703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="576" y="164" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624270422703" />
     <state x="345" y="78" key="SettingsEditor" timestamp="1624264099048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

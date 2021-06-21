@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="" />
+    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/multi_source_redis/src/main/java/com/example/demo/utils/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,13 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,6 +105,7 @@
       <workItem from="1624262450319" duration="1629000" />
       <workItem from="1624264113474" duration="4971000" />
       <workItem from="1624270367218" duration="118000" />
+      <workItem from="1624270594885" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>

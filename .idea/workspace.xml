@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,7 @@
       <workItem from="1624270594885" duration="733000" />
       <workItem from="1624271405837" duration="153000" />
       <workItem from="1624271827400" duration="1820000" />
-      <workItem from="1624273701062" duration="256000" />
+      <workItem from="1624273701062" duration="285000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624273799208</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ignore">
+      <created>1624273960603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624273960603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,10 +265,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
-    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624273634718">
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624273959854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273634718" />
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273959854" />
     <state x="212" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1624273514281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -314,18 +321,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624264099048" />
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624273637694">
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624273962401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273637694" />
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273962401" />
     <state x="603" y="192" key="VcsDiffUtil.ChangesDialog" timestamp="1624273498659">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="192" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624273498659" />
-    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624273741639">
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624273975545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273741639" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273975545" />
     <state x="144" y="187" width="1598" height="695" key="new project wizard" timestamp="1624271881831">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

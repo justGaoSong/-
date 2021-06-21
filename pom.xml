@@ -15,6 +15,7 @@
     <modules>
         <module>mybatis_plus_demo</module>
         <module>multi_source_redis</module>
+        <module>java_basic</module>
     </modules>
 
     <dependencyManagement>

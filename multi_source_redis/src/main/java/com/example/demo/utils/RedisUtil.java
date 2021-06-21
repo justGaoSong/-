@@ -28,4 +28,12 @@ public class RedisUtil {
             return (String)result;
         }
     }
+
+    public boolean lock(String uuid,String key,Integer expireSeconds){
+        return false;
+    }
+
+    public boolean unlock(String uuid,String key){
+        return false;
+    }
 }

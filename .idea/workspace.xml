@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multi_source_redis/src/main/java/com/example/demo/utils/RedisUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +102,7 @@
       <workItem from="1624262450319" duration="1629000" />
       <workItem from="1624264113474" duration="4971000" />
       <workItem from="1624270367218" duration="118000" />
-      <workItem from="1624270594885" duration="619000" />
+      <workItem from="1624270594885" duration="733000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>
@@ -114,15 +111,59 @@
       <option name="project" value="LOCAL" />
       <updated>1624270456199</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[update]">
+      <created>1624271240556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624271240556</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加ignore" />
+    <MESSAGE value="[update]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[update]" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1263" y="466" width="542" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624263061702">
@@ -133,10 +174,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
-    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624270455361">
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624271495932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270455361" />
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624271495932" />
+    <state x="212" y="85" key="DiffContextDialog" timestamp="1624271223775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="212" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624271223775" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624264082723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -185,10 +230,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624264099048" />
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624270458546">
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624271242364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624270458546" />
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624271242364" />
     <state x="144" y="187" width="1598" height="695" key="new project wizard" timestamp="1624266539116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

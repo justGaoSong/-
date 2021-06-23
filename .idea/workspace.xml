@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
+    <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="ignore">
+      <change afterPath="$PROJECT_DIR$/es7_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/Es7DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/config/EsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/repo/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esClient/EsClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/Es7DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/EsClientTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/src/main/java/com/example/demo/HbaseDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hbase_demo/src/test/java/com/example/demo/HbaseDemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +94,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/multi_source_redis/src/main/java/com/example/demo/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DmallCode/dmall-scms" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -80,7 +110,7 @@
       <recent name="E:\Personal Project\Practice\gaosong_practice_collection\mybatis_plus_demo\src\main\java\com\example\demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadPool_2">
+  <component name="RunManager" selected="JUnit.EsClientTests.indexExist">
     <configuration name="ThreadPool_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.thread.ThreadPool_1" />
       <module name="java_basic" />
@@ -103,6 +133,52 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Es7DemoApplicationTests.existAndCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es7_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.Es7DemoApplicationTests" />
+      <option name="METHOD_NAME" value="existAndCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsClientTests.indexExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es7_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.EsClientTests" />
+      <option name="METHOD_NAME" value="indexExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Es7DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="es7_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Es7DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hbase_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.HbaseDemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,6 +206,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EsClientTests.indexExist" />
+        <item itemvalue="JUnit.Es7DemoApplicationTests.existAndCreate" />
         <item itemvalue="Application.ThreadPool_2" />
         <item itemvalue="Application.ThreadPool_1" />
       </list>
@@ -152,6 +230,12 @@
       <workItem from="1624271405837" duration="153000" />
       <workItem from="1624271827400" duration="1820000" />
       <workItem from="1624273701062" duration="285000" />
+      <workItem from="1624274074104" duration="204000" />
+      <workItem from="1624349251068" duration="2184000" />
+      <workItem from="1624353794600" duration="4206000" />
+      <workItem from="1624358633725" duration="673000" />
+      <workItem from="1624360409888" duration="1707000" />
+      <workItem from="1624411203767" duration="5466000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>
@@ -202,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624273960603</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ignore">
+      <created>1624274087852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624274087852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,10 +344,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1624272124504">
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1624357862674">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624272124504" />
+    <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624357862674" />
     <state x="1263" y="466" width="542" height="343" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1624263061702">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -265,34 +356,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
-    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624273959854">
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624274275410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273959854" />
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624274275410" />
     <state x="212" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1624273514281">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="212" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624273514281" />
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624264082723">
+    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624353817014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624264082723" />
-    <state width="1867" height="467" key="GridCell.Tab.0.bottom" timestamp="1624273648834">
+    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624353817014" />
+    <state width="1867" height="444" key="GridCell.Tab.0.bottom" timestamp="1624414160720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624273648834" />
-    <state width="1867" height="467" key="GridCell.Tab.0.center" timestamp="1624273648834">
+    <state width="1867" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624414160720" />
+    <state width="1867" height="444" key="GridCell.Tab.0.center" timestamp="1624414160720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624273648834" />
-    <state width="1867" height="467" key="GridCell.Tab.0.left" timestamp="1624273648834">
+    <state width="1867" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624414160720" />
+    <state width="1867" height="444" key="GridCell.Tab.0.left" timestamp="1624414160720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624273648834" />
-    <state width="1867" height="467" key="GridCell.Tab.0.right" timestamp="1624273648834">
+    <state width="1867" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624414160720" />
+    <state width="1867" height="444" key="GridCell.Tab.0.right" timestamp="1624414160720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="467" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624273648834" />
+    <state width="1867" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624414160720" />
     <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -321,25 +412,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624264099048" />
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624273962401">
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624274090301">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273962401" />
-    <state x="603" y="192" key="VcsDiffUtil.ChangesDialog" timestamp="1624273498659">
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624274090301" />
+    <state x="603" y="192" key="VcsDiffUtil.ChangesDialog" timestamp="1624274229250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="603" y="192" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624273498659" />
-    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624273975545">
+    <state x="603" y="192" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624274229250" />
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1624411297279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624273975545" />
-    <state x="144" y="187" width="1598" height="695" key="new project wizard" timestamp="1624271881831">
+    <state x="577" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624411297279" />
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624274235320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="144" y="187" width="1598" height="695" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1624271881831" />
-    <state x="487" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1624263551114">
+    <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624274235320" />
+    <state x="192" y="174" width="1598" height="695" key="new project wizard" timestamp="1624353283350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624263551114" />
+    <state x="192" y="174" width="1598" height="695" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1624353283350" />
+    <state x="487" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1624414262166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624414262166" />
   </component>
 </project>

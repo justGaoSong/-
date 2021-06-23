@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/mybatis_plus_demo/pom.xml" />
         <option value="$PROJECT_DIR$/multi_source_redis/pom.xml" />
         <option value="$PROJECT_DIR$/java_basic/pom.xml" />
+        <option value="$PROJECT_DIR$/hbase_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/es7_demo/pom.xml" />
       </list>
     </option>
   </component>

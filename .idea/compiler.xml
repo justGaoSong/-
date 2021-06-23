@@ -7,24 +7,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="java_basic" />
-        <module name="gaosong_practice_collection" />
         <module name="multi_source_redis" />
         <module name="mybatis_plus_demo" />
         <module name="es7_demo" />
-        <module name="hbase_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
+      <module name="hbase_demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
-      <module name="es7_demo" options="-parameters" />
-      <module name="hbase_demo" options="-parameters" />
+      <module name="es7_demo" options="" />
+      <module name="hbase_demo" options="" />
       <module name="java_basic" options="" />
-      <module name="multi_source_redis" options="-parameters" />
+      <module name="multi_source_redis" options="" />
       <module name="mybatis_plus_demo" options="" />
     </option>
   </component>

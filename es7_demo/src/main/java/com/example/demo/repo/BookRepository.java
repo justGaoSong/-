@@ -13,7 +13,7 @@ public interface BookRepository extends ElasticsearchRepository<Book, Integer> {
     //findById()和save()之类的方法父接口已经写了，这里无需重复编写
 
     //按价格区间查询
-    //List<Book> findByPriceBetween(BigDecimal min, BigDecimal max);
+    List<Book> findByPriceBetween(BigDecimal min, BigDecimal max);
 
     //按书名查询，因为使用了中文分词器ik，所以这里并不是精确查询
     List<Book> findByTitle(String title);

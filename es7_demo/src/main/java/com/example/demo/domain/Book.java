@@ -16,7 +16,7 @@ public class Book {
     private String id;
     @Field(type = FieldType.Text,analyzer = "ik_max_word")
     private String title;
-    //private BigDecimal price;
+    private BigDecimal price;
 
     @Field(type = FieldType.Keyword)
     private List<String> tag;
@@ -37,13 +37,13 @@ public class Book {
         this.title = title;
     }
 
-//    public BigDecimal getPrice() {
-//        return price;
-//    }
-//
-//    public void setPrice(BigDecimal price) {
-//        this.price = price;
-//    }
+    public BigDecimal getPrice() {
+        return price;
+    }
+
+    public void setPrice(BigDecimal price) {
+        this.price = price;
+    }
 
     public List<String> getTag() {
         return tag;

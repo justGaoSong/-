@@ -2,7 +2,6 @@ package com.example.demo;
 
 import com.alibaba.fastjson.JSON;
 import com.example.demo.service.esClient.EsClientService;
-import org.elasticsearch.client.RestHighLevelClient;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
@@ -31,4 +30,12 @@ public class EsClientTests {
         List<String> results=esClientService.analyzeSentence("这是一个分词测试");
         System.out.println(JSON.toJSONString(results));
     }
+
+    @Test
+    public void aliasTest() throws Exception {
+        System.out.println(JSON.toJSONString(esClientService.getAllAlias()));
+        Boolean result=esClientService.removeAlias("book","Book");
+        System.out.println("别名移除："+result);
+    }
+
 }

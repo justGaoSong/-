@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esTemplate/EsTemplateService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/domain/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/repo/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/repo/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/config/EsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/config/EsConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esClient/EsClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esClient/EsClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/EsClientTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/EsClientTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/src/main/java/com/example/demo/HbaseDemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hbase_demo/src/test/java/com/example/demo/HbaseDemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java_basic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multi_source_redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/multi_source_redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_plus_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_plus_demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,20 +87,7 @@
       <recent name="E:\Personal Project\Practice\gaosong_practice_collection\mybatis_plus_demo\src\main\java\com\example\demo" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EsClientTests.analyzeTest">
-    <configuration name="ThreadPool_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.thread.ThreadPool_1" />
-      <module name="java_basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.EsClientTests.aliasTest">
     <configuration name="ThreadPool_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.thread.ThreadPool_2" />
       <module name="java_basic" />
@@ -142,6 +112,22 @@
       <option name="PACKAGE_NAME" value="com.example.demo" />
       <option name="MAIN_CLASS_NAME" value="com.example.demo.Es7DemoApplicationTests" />
       <option name="METHOD_NAME" value="existAndCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EsClientTests.aliasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es7_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.EsClientTests" />
+      <option name="METHOD_NAME" value="aliasTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EsClientTests.analyzeTest" />
+        <item itemvalue="JUnit.EsClientTests.aliasTest" />
         <item itemvalue="JUnit.EsClientTests.indexExist" />
+        <item itemvalue="JUnit.EsClientTests.analyzeTest" />
         <item itemvalue="JUnit.Es7DemoApplicationTests.existAndCreate" />
         <item itemvalue="Application.ThreadPool_2" />
-        <item itemvalue="Application.ThreadPool_1" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +232,7 @@
       <workItem from="1624353794600" duration="4206000" />
       <workItem from="1624358633725" duration="673000" />
       <workItem from="1624360409888" duration="1707000" />
-      <workItem from="1624411203767" duration="10242000" />
+      <workItem from="1624411203767" duration="15198000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>
@@ -311,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624427047034</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ES相关">
+      <created>1624431898579</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1624431898579</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,34 +372,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624263292167" />
-    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624427044452">
+    <state x="402" y="43" key="CommitChangelistDialog2" timestamp="1624431939034">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624427044452" />
-    <state x="212" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1624273514281">
+    <state x="402" y="43" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624431939034" />
+    <state x="212" y="85" width="1536" height="860" key="DiffContextDialog" timestamp="1624431890540">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="212" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624273514281" />
+    <state x="212" y="85" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624431890540" />
     <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1624353817014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624353817014" />
-    <state width="1867" height="444" key="GridCell.Tab.0.bottom" timestamp="1624431874335">
+    <state width="1867" height="444" key="GridCell.Tab.0.bottom" timestamp="1624439640460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624431874335" />
-    <state width="1867" height="444" key="GridCell.Tab.0.center" timestamp="1624431874335">
+    <state width="1867" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
+    <state width="1867" height="444" key="GridCell.Tab.0.center" timestamp="1624439640460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624431874334" />
-    <state width="1867" height="444" key="GridCell.Tab.0.left" timestamp="1624431874334">
+    <state width="1867" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
+    <state width="1867" height="444" key="GridCell.Tab.0.left" timestamp="1624439640460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624431874334" />
-    <state width="1867" height="444" key="GridCell.Tab.0.right" timestamp="1624431874335">
+    <state width="1867" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
+    <state width="1867" height="444" key="GridCell.Tab.0.right" timestamp="1624439640460">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624431874335" />
+    <state width="1867" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
     <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -435,10 +428,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624431056715" />
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624427048824">
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624431952797">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624427048824" />
+    <state x="452" y="174" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624431952797" />
     <state x="603" y="192" key="VcsDiffUtil.ChangesDialog" timestamp="1624274229250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

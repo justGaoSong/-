@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="85cb11cf-0fff-45d0-9da8-a741e9567fa3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/config/EsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/config/EsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esClient/EsClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/java/com/example/demo/service/esClient/EsClientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/EsClientTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/es7_demo/src/test/java/com/example/demo/EsClientTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +57,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Program Files (x86)\apache-maven-3.3.9\repository" />
-        <option name="userSettingsFile" value="C:\Program Files (x86)\apache-maven-3.3.9\conf\settings.xml" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../../Application/apache-maven-3.8.1/repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Application/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../Application/apache-maven-3.8.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -56,7 +74,6 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -65,11 +82,13 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DmallCode/dmall-scms" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -86,6 +105,11 @@
       <recent name="E:\Personal Project\Practice\gaosong_practice_collection\mybatis_plus_demo\src\main\resources" />
       <recent name="E:\Personal Project\Practice\gaosong_practice_collection\mybatis_plus_demo\src\main\java\com\example\demo" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
   </component>
   <component name="RunManager" selected="JUnit.EsClientTests.aliasTest">
     <configuration name="ThreadPool_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -233,6 +257,13 @@
       <workItem from="1624358633725" duration="673000" />
       <workItem from="1624360409888" duration="1707000" />
       <workItem from="1624411203767" duration="15198000" />
+      <workItem from="1626504360252" duration="1210000" />
+      <workItem from="1626505950472" duration="874000" />
+      <workItem from="1626506900074" duration="1343000" />
+      <workItem from="1626508275233" duration="200000" />
+      <workItem from="1626508499440" duration="10000" />
+      <workItem from="1626508748432" duration="1548000" />
+      <workItem from="1626511424054" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="添加ignore">
       <created>1624270456199</created>
@@ -308,7 +339,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -338,13 +369,19 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -356,9 +393,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ES相关" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="96" key="#Project_Structure" timestamp="1624430577098">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="339" y="57" key="#Project_Structure" timestamp="1626506091905">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="339" y="57" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1626506091905" />
     <state x="452" y="96" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1624430577098" />
     <state x="721" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1624357862674">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -384,21 +422,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1624353817014" />
-    <state width="1867" height="444" key="GridCell.Tab.0.bottom" timestamp="1624439640460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1388" height="289" key="GridCell.Tab.0.bottom" timestamp="1626511724122">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1388" height="289" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1626511724122" />
     <state width="1867" height="444" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
-    <state width="1867" height="444" key="GridCell.Tab.0.center" timestamp="1624439640460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1388" height="289" key="GridCell.Tab.0.center" timestamp="1626511724120">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1388" height="289" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1626511724120" />
     <state width="1867" height="444" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
-    <state width="1867" height="444" key="GridCell.Tab.0.left" timestamp="1624439640460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1388" height="289" key="GridCell.Tab.0.left" timestamp="1626511724117">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1388" height="289" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1626511724117" />
     <state width="1867" height="444" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
-    <state width="1867" height="444" key="GridCell.Tab.0.right" timestamp="1624439640460">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1388" height="289" key="GridCell.Tab.0.right" timestamp="1626511724121">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1388" height="289" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1626511724121" />
     <state width="1867" height="444" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624439640460" />
     <state width="1867" height="451" key="GridCell.Tab.1.bottom" timestamp="1624270350667">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -416,17 +458,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="451" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624270350667" />
-    <state x="377" y="93" key="Maven.ArtifactSearchDialog" timestamp="1624262839807">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="283" y="54" key="Maven.ArtifactSearchDialog" timestamp="1626508306508">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="283" y="54" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1626508306508" />
     <state x="377" y="93" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624262839807" />
     <state x="576" y="164" key="RollbackChangesDialog" timestamp="1624270422703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="576" y="164" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624270422703" />
-    <state x="345" y="0" key="SettingsEditor" timestamp="1624431056715">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="209" y="0" width="1231" height="900" key="SettingsEditor" timestamp="1626511467135">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="209" y="0" width="1231" height="900" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1626511467135" />
     <state x="345" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624431056715" />
     <state x="452" y="174" key="Vcs.Push.Dialog.v2" timestamp="1624431952797">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -444,13 +488,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="719" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624274235320" />
-    <state x="192" y="174" width="1598" height="695" key="new project wizard" timestamp="1624353283350">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="144" y="151" width="1598" height="695" key="new project wizard" timestamp="1626509002666">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="144" y="151" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1626509002666" />
     <state x="192" y="174" width="1598" height="695" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1624353283350" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1624428670087">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="399" y="205" width="670" height="675" key="run.anything.popup" timestamp="1626505903210">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="399" y="205" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1626505903210" />
     <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624428670087" />
     <state x="487" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1624414262166">
       <screen x="0" y="0" width="1920" height="1040" />

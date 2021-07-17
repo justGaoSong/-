@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java_basic" />
         <module name="multi_source_redis" />
+        <module name="java_basic" />
         <module name="mybatis_plus_demo" />
         <module name="es7_demo" />
       </profile>
